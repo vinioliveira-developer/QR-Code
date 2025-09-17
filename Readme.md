@@ -20,19 +20,18 @@ O objetivo é recriar um componente de QR Code o mais fiel possível ao design p
    ```bash
    git clone https://github.com/seu-usuario/qr-code-component.git
 
-   Acesse a pasta do projeto:
+   Acesse a pasta do projeto: cd qr-code-component
 
-cd qr-code-component
-
-Abra o arquivo index.html no seu navegador.
+## Abra o arquivo index.html no seu navegador.
 
 🌎 Deploy
 
 Você pode visualizar o projeto online aqui:
-👉 Link do projeto no GitHub Pages
+👉 [Link do projeto no GitHub Pages](https://vinioliveira-developer.github.io/QR-Code/)
 
 ✨ Autor
 
 Projeto desenvolvido por Marcos Vinicius 🙋‍♂️
 Se quiser trocar uma ideia: [LinkedIn](https://www.linkedin.com/in/mvinicius-developer/)
  | [Frontend Mentor](https://www.frontendmentor.io/profile/vinioliveira-developer)
+
